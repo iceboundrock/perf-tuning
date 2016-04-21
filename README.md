@@ -1,6 +1,3 @@
-# perfview-labs
-通过一系列例子，介绍PerfView工具
+#性能调优总结
 
-* 例子1: 解决应用CPU占用率低但是执行缓慢的问题
-* 例子2：解决应用内存泄露问题
-* 例子3：解决应用CPU占用率过高的问题
+打算在此把自己一直在做的性能调优工作进行一下总结，目前计划分为：[安卓性能调优](android/README.md)、[.NET性能调优](perfview/README.md)和[SQL Server性能调优](sqlserver/README.md)这几个部分。
